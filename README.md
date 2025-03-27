@@ -128,7 +128,17 @@ If any of these projects interest you, navigate to the respective **project dire
 - 🚀 **Serverless Technologies:** AWS Lambda, API Gateway, DynamoDB  
 
 ---
+## 📩 **Contact Information**  
 
+📧 **Email:** [oladosuadeniyi39@gmail.com](mailto:oladosuadeniyi39@gmail.com)  
+🌐 **LinkedIn:** [Oladosu Ibrahim](https://www.linkedin.com/in/oladosu-ibrahim)  
+🐦 **Twitter:** [@Sudaisib](https://twitter.com/Sudaisib)  
+📂 **GitHub:** [Sudaisib](https://github.com/Sudaisib)  
+✍️ **Blog:** [Ibrahim’s Cloud & Data Chronicles](https://sudais.hashnode.dev/)  
+
+I’m open to **collaborations, technical discussions, freelance projects, and consulting opportunities** in **Cloud & DevOps Engineering**. Feel free to connect! ☁️✨  
+
+---
 ## 🔐 **Security Best Practices**  
 
 - Implement **least privilege access** with IAM policies.  
@@ -139,16 +149,6 @@ If any of these projects interest you, navigate to the respective **project dire
 
 ---
 
-## 📩 **Contact Information**  
-
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/kingbabz-cloud](https://www.linkedin.com/in/kingbabz-cloud)  
-🐦 **Twitter:** [twitter.com/kingbabz_cloud](https://twitter.com/kingbabz_cloud)  
-📂 **GitHub:** [github.com/kingbabz-cloud](https://github.com/kingbabz-cloud)  
-
-I’m open to **collaborations, technical discussions, freelance projects, and consulting opportunities** in **Cloud & DevOps Engineering**. Feel free to connect! ☁️✨  
-
----
 
 ## 📜 **License**  
 
