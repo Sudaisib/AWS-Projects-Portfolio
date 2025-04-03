@@ -1,6 +1,5 @@
 ![IAM User](https://github.com/user-attachments/assets/38634227-d0de-4ba6-9c8c-928b3f7f5de0)
 
----
 
 # 🌟 Step-by-Step Guide to Creating an IAM User in AWS 🚀
 
