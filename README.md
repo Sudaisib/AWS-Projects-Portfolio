@@ -60,34 +60,50 @@ This repository serves as a collection of **real-world cloud projects**, highlig
 
 ## 📚 **Projects Overview** 🏗️  
 
-This section provides an in-depth look into the **AWS-based projects** I’ve worked on, showcasing various cloud services, deployment models, and automation techniques. Each project is designed to solve real-world problems and enhance efficiency in cloud environments.  
+This section provides an in-depth look into the **AWS-based projects** I’ve worked on, showcasing various cloud services, deployment models, and automation techniques. Each project is designed to solve real-world challenges and enhance security, scalability, and efficiency in cloud environments.  
 
 ### 🔹 **Project 1: Step-by-Step Guide to Creating an IAM User in AWS**  
 
-📌 **Description**: This project is a fundamental guide on how to create and configure **AWS IAM Users** securely, ensuring proper access control within an AWS environment.  
+📌 **Description**: This project serves as a **detailed guide on setting up AWS Identity and Access Management (IAM) Users**. IAM is a critical AWS service that enables administrators to manage **secure access to AWS resources**, ensuring that users have the appropriate level of permissions based on their roles. The guide covers **user creation, permissions management, and security best practices**.  
 
 🔹 **Key Features:**  
-- Creating IAM users with **fine-grained permissions** using IAM policies.  
-- Configuring **MFA (Multi-Factor Authentication)** for enhanced security.  
-- Assigning users to **IAM groups** and managing permissions efficiently.  
-- Understanding IAM **roles, policies, and best practices**.  
+- Creating **IAM users** with custom permissions.  
+- Assigning users to **IAM groups** for streamlined access control.  
+- Configuring **IAM policies** to enforce **least privilege access**.  
+- Enabling **Multi-Factor Authentication (MFA)** for additional security.  
+- Understanding IAM **roles, access keys, and security best practices**.  
 
-🛠 **Technologies Used:** AWS IAM, AWS Management Console, AWS CLI.  
+🛠 **Technologies Used:**  
+- **AWS IAM (Identity and Access Management)** – Secure user and permissions management.  
+- **AWS Management Console** – GUI for configuring IAM users and policies.  
+- **AWS CLI (Command Line Interface)** – Automating IAM user creation and management.  
+
+This project is perfect for **AWS beginners, cloud engineers, and security administrators** who want to **learn best practices for securing AWS accounts** while ensuring **proper access control and user management**. 🚀
+
 📖 **Link to Project README**: [IAM User Guide](#)  
 
 ---
 
-### 🔹 **Project 2: Hosting a Static Website on AWS S3 with CloudFront**  
+### 🔹 **Project 2: Mounting Amazon EFS on an EC2 Instance in AWS: A Step-by-Step Guide**  
 
-📌 **Description**: This project demonstrates how to host a **fully functional, secure, and scalable static website** using **AWS S3, CloudFront, and Route 53**.  
+📌 **Description**: This project provides a **detailed step-by-step guide** on how to mount **Amazon Elastic File System (EFS)** on an **Amazon EC2 instance**. EFS is a **scalable, fully managed shared file storage** service designed for use with AWS cloud resources. This guide covers **creating an EFS file system, configuring security groups, connecting an EC2 instance, and mounting EFS for persistent storage.**  
 
 🔹 **Key Features:**  
-- Configuring an **S3 bucket** for static website hosting.  
-- Setting up **CloudFront CDN** for caching and performance optimization.  
-- Enabling **SSL/TLS encryption** using AWS Certificate Manager.  
-- Implementing domain routing via **Route 53**.  
+- Setting up an **Amazon EFS** file system for shared storage.  
+- Configuring **EC2 Security Groups** to allow NFS traffic.  
+- Connecting to an **EC2 instance** using EC2 Instance Connect.  
+- Installing necessary **EFS utilities** and mounting the file system.  
+- Managing **permissions, file operations, and storage scalability**.  
 
-🛠 **Technologies Used:** AWS S3, CloudFront, Route 53, AWS Certificate Manager.  
+🛠 **Technologies Used:**  
+- **Amazon Elastic File System (EFS)** – Managed NFS storage service.  
+- **Amazon EC2** – Virtual server to mount and access EFS.  
+- **AWS Security Groups** – Controls network access for EFS and EC2.  
+- **Linux CLI (Bash)** – Command-line interface for setup and configuration.  
+- **Amazon VPC (Virtual Private Cloud)** – Provides network connectivity between EC2 and EFS.  
+
+This project is ideal for **AWS beginners** and **cloud engineers** looking to learn how to implement **persistent, scalable, and shared file storage** for cloud-based applications. 🚀
+
 📖 **Link to Project README**: [Static Website Hosting Guide](#)  
 
 ---
