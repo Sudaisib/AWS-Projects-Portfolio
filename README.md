@@ -80,7 +80,7 @@ This section provides an in-depth look into the **AWS-based projects** I’ve wo
 
 This project is perfect for **AWS beginners, cloud engineers, and security administrators** who want to **learn best practices for securing AWS accounts** while ensuring **proper access control and user management**. 🚀
 
-📖 **Link to Project README**: [IAM User Guide](#)  
+📖 **Link to Project README**: [IAM User Guide](https://github.com/Sudaisib/AWS-Projects-Portfolio/blob/main/AWS%20IAM%20User%20Guide/README.md)  
 
 ---
 
